@@ -9,3 +9,10 @@ class Array
     value
   end
 end
+
+
+def test
+
+  yield
+
+end
